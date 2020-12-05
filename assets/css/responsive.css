@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px) {
+  .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    border: none !important;
+    outline: none !important;
+}
+.banner-left {
+  padding: 20px;
+}
+.navbar{
+  background: #ffffff;
+}
+.banner-left{
+  padding: 50px 15px ;
+}
+.about-left{
+  padding: 0 15px !important;
+}
+.portfolio-nav button {
+  margin: 5px;
+}
+.card{
+  margin: 10px 0;
+}
+}
